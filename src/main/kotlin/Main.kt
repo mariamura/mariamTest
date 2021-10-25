@@ -6,7 +6,7 @@ fun main() {
                 " the last element is ${last()}"
     }
     println("Changes!")
-    println("Test changes!")
+    println("Test changes 9999!")
     println(firstAndLast)
 }
 
