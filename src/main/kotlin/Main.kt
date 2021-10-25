@@ -5,6 +5,7 @@ fun main() {
         "The first element is ${first()}," +
                 " the last element is ${last()}"
     }
+    println("Changes!")
     println("Test changes!")
     println(firstAndLast)
 }
